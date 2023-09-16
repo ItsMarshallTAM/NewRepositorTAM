@@ -1,4 +1,4 @@
-Versão 1.0
+Versão 2.0
 programa{
 	funcao inicio()	{
 		real Total = 0.00
